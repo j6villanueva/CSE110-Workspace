@@ -8,7 +8,7 @@ My name is **Joshua Villanueva** and I am a low income, first generation, Comput
 
 
 I work as a PACE LPM at UCSD [PACE LPM](https://csepace.ucsd.edu/).
-
+![PACE LOGO](/Users/joshuavillanueva/Documents/VSCode/CSE110-Workspace/Logo-banner.png)
 
 #Favorites
 
