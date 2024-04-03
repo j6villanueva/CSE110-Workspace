@@ -7,7 +7,8 @@
 My name is **Joshua Villanueva** and I am a low income, first generation, Computer Engineering student that transferred from Santa Barbara City College and in my free time I love to lose myself in a book, discover a new hiking trail, or go to a show with my friends. I decided to pursue a degree in Computer Engineering because I have always enjoyed robotics and have been interested in how they work. I chose to transfer to UCSD because of many reasons including its amazing location, push for innovation, and the amount of support/resources it has to offer.
 
 
-I work as a PACE LPM at UCSD [PACE LPM](https://csepace.ucsd.edu/).
+I work as a PACE LPM at UCSD [PACE LPM](https://csepace.ucsd.edu/)
+
 ![PACE LOGO](/Users/joshuavillanueva/Documents/VSCode/CSE110-Workspace/Logo-banner.png)
 
 #Favorites
